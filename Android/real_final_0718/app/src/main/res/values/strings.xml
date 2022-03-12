@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Please refer to https://azure.microsoft.com/en-us/services/cognitive-services/face/ to get your subscription key -->
+    <!-- If you have subscription key with its corresponding endpoint, you can add them here to use the service -->
+    <string name="subscription_key">24ca52a877b44258a1de47de06888a8a</string>
+    <string name="endpoint">https://koreacentral.api.cognitive.microsoft.com/face/v1.0</string>
+
+    <string name="app_name">파인 홈스쿨</string>
+    <string name="dash">-</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
